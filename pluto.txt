@@ -1,4 +1,4 @@
 It is so a planet!
 Changes made in testplanets3
 things and stuff
-
+Changes made only in testplanets3
